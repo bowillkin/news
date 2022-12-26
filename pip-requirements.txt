@@ -6,4 +6,4 @@ pytz==2019.1
 setuptools==41.0.1
 simplejson==3.12.0
 webargs==1.8.1
-wheel==0.33.4
+wheel==0.38.1
